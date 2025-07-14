@@ -1,7 +1,7 @@
 # Penyelesaian Traveling Salesman Problem dengan Cheapest Insertion Heuristics
 Algoritma pendekatan heuristik untuk menyelesaikan Traveling Salesman Problem (TSP) dengan membangun *tour*. Dalam setiap langkah, algoritma ini menyisipkan kota yang memiliki biaya penyisipan minimum untuk membangun solusi yang tepat dan efisien.
 
-# Spesifikasi Lingkungan
+## Spesifikasi Lingkungan
 - matplotlib 3.4.3
 - pandas 1.5.3
 - networkx 3.1
