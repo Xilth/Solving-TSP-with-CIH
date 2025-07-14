@@ -1,0 +1,11 @@
+kota_asal,kota_tujuan,jarak
+A,B,200
+A,C,140
+A,D,350
+A,E,400
+B,C,90
+B,D,160
+B,E,250
+C,D,190
+C,E,220
+D,E,80
