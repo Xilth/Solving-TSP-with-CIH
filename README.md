@@ -30,11 +30,22 @@ Versi ini digunakan untuk memastikan hasil dapat direproduksi dengan tepat.
 2. Instal pustaka yang dibutuhkan dengan menjalankan perintah: ```pip install -r pustaka.txt```.
 3. Menjalankan perangkat lunak tanpa kompilasi ke file *.exec* menggunakan perintah: ```py main.py```.
 4. Menjalankan PyInstaller untuk membuat file *.exec* menggunakan perintah: ```pyinstaller --onefile main.py```
+5. File *.exec* siap dijalankan.
 
 ## Catatan Penting:
 
 - Perangkat lunak dapat menyelesaikan masalah TSP pada graf berbobot lengkap (*Completed Weighted Graph*).
 - Memasukkan data selain graf tersebut dapat memunculkan jawaban yang tidak sesuai.
+
+## Cara Menggunakan Perangkat Lunak:
+1. Menjalankan perangkat lunak.
+    - Catatan: Perangkat lunak dapat dijalankan tanpa kompilasi menggunakan perintah: ```py main.py``` atau mengkompilasi *source code* menjadi file *.exec*.
+2. Tekan tombol: "Upload Data Jarak Antarkota".
+3. Pilih file *.csv* yang diinginkan.
+    - Catatan: Nama kota dan jaraknya **harus** saling terhubungi (graf berbobot lengkap).
+4. Pilih "Kota Pertama" pada *dropdown* sesuai keinginan.
+5. Tekan tombol: "SOLVE".
+6. Iterasi perhitungan Cheapest Insertion Heuristics akan muncul pada panel "Proses Penyisipan" dan hasil akhir *tour* dan total jarak tempuh beserta dengan visualisasi graf akan muncul pada panel "Output".
 
 ## License
 
