@@ -16,8 +16,8 @@ Algoritma pendekatan heuristik untuk menyelesaikan Traveling Salesman Problem (T
     - Kolom pertama : kota\_asal
     - Kolom kedua   : kota\_tujuan
     - Kolom ketiga  : jarak
-- Contoh data dapat dilihat pada folder "contoh_kasus".
 
+Contoh data dapat dilihat pada folder "contoh_kasus".
 Versi ini digunakan untuk memastikan hasil dapat direproduksi dengan tepat.
 *Code Editor* yang digunakan tidak harus digunakan. Pengembang dapat menggunakan *IDE* atau *text editor* sesuai keinginan.
 
@@ -27,7 +27,7 @@ Versi ini digunakan untuk memastikan hasil dapat direproduksi dengan tepat.
     - Berkas *archive* yang telah diberikan dan letakkan isi berkas ke suatu folder yang diinginkan, atau
     - *Clone* repositori menggunakan perintah: ```git clone https://github.com/Xilth/Solving-TSP-with-CIH.git``` pada *powershell*, *bash*, atau terminal lainnya sesuai dengan keinginan.
 2. Instal pustaka yang dibutuhkan dengan menjalankan perintah: ```pip install -r pustaka.txt```.
-3. Menjalankan perangkat lunak tanpa kompilasi ke file *.exec* menggunakan perintah: ```python main.py``` atau ```py main.py```.
+3. Menjalankan perangkat lunak tanpa kompilasi ke file *.exec* menggunakan perintah: ```py main.py```.
 4. Menjalankan PyInstaller untuk membuat file *.exec* menggunakan perintah: ```pyinstaller --onefile main.py```
 
 ## Catatan Penting:
