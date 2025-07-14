@@ -29,7 +29,7 @@ Versi ini digunakan untuk memastikan hasil dapat direproduksi dengan tepat.
     - *Clone* repositori menggunakan perintah: ```git clone https://github.com/Xilth/Solving-TSP-with-CIH.git``` pada *powershell*, *bash*, atau terminal lainnya sesuai dengan keinginan.
 2. Instal pustaka yang dibutuhkan dengan menjalankan perintah: ```pip install -r pustaka.txt```.
 3. Menjalankan perangkat lunak tanpa kompilasi ke file *.exec* menggunakan perintah: ```py main.py```.
-4. Menjalankan PyInstaller untuk membuat file *.exec* menggunakan perintah: ```pyinstaller --onefile main.py```
+4. Menjalankan PyInstaller untuk membuat file *.exec* menggunakan perintah: ```pyinstaller --onefile -n "Solve TSP with CIH" main.py```
 5. File *.exec* akan terbentuk dalam folder ```dist\main.exe``` dan sudah siap dijalankan.
 
 ## Catatan Penting:
