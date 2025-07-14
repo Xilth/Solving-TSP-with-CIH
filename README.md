@@ -30,7 +30,7 @@ Versi ini digunakan untuk memastikan hasil dapat direproduksi dengan tepat.
 2. Instal pustaka yang dibutuhkan dengan menjalankan perintah: ```pip install -r pustaka.txt```.
 3. Menjalankan perangkat lunak tanpa kompilasi ke file *.exec* menggunakan perintah: ```py main.py```.
 4. Menjalankan PyInstaller untuk membuat file *.exec* menggunakan perintah: ```pyinstaller --onefile main.py```
-5. File *.exec* siap dijalankan.
+5. File *.exec* akan terbentuk dalam folder ```dist\main.exe``` dan sudah siap dijalankan.
 
 ## Catatan Penting:
 
