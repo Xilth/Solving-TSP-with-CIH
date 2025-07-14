@@ -18,7 +18,7 @@ Algoritma pendekatan heuristik untuk menyelesaikan Traveling Salesman Problem (T
     - Kolom kedua   : kota\_tujuan
     - Kolom ketiga  : jarak
 
-Contoh data dapat dilihat pada folder "contoh_kasus".
+Contoh data dapat dilihat pada folder "contoh\_kasus".
 Versi ini digunakan untuk memastikan hasil dapat direproduksi dengan tepat.
 *Code Editor* yang digunakan tidak harus digunakan. Pengembang dapat menggunakan *IDE* atau *text editor* sesuai keinginan.
 
