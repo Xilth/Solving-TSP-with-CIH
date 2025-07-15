@@ -3,6 +3,7 @@ Algoritma pendekatan heuristik untuk menyelesaikan Traveling Salesman Problem (T
 
 ## Spesifikasi Lingkungan
 
+- Python 3.9.0
 - matplotlib 3.4.3
 - pandas 1.5.3
 - networkx 3.1
@@ -10,7 +11,7 @@ Algoritma pendekatan heuristik untuk menyelesaikan Traveling Salesman Problem (T
 
 ## Prasyarat
 
-- Python 3.9.0+
+- Python 3.9.0 (Versi lain dapat memunculkan error)
 - pip (Versi Python 3.4+ sudah terinstall secara otomatis)
 - *Code Editor: Visual Studio Code* (opsional)
 - Input data berupa file *.csv*, yang sudah disiapkan dalam bentuk format:
