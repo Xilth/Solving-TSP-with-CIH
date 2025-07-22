@@ -11,6 +11,7 @@ Algoritma pendekatan heuristik untuk menyelesaikan Traveling Salesman Problem (T
 
 ## Prasyarat
 
+- Microsoft Visual C++ Redistributable 2015-2019
 - Python 3.9.0 (Versi lain dapat memunculkan error)
 - pip (Versi Python 3.4+ sudah terinstall secara otomatis)
 - *Code Editor: Visual Studio Code* (opsional)
